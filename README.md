@@ -13,5 +13,6 @@ It details the death counts per age group, sex, race/ethnicity for select underl
 ## Questions
 I will analyze the dataset using Pandas to answer the following questions:
 
-1. 
-2. 
+1. Which age group has the highest death count per month?
+2. What are the top three causes of death over the years?
+3. What is top cause of death per age group?
